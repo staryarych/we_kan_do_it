@@ -1,0 +1,15 @@
+{
+  "id": "nikitamalcev99/kan_gpt2",
+  "title": "KAN_GPT2",
+  "code_file": "./main.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": ["nikitamalcev99/input-gpt2-kan"],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
