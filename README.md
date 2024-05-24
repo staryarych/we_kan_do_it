@@ -7,7 +7,7 @@
 ### Конфиг    
     kaggle.json - получить в настройках kaggle
 
-    ```console    
+    ```bash   
         > mkdir /.kaggle
         > mv path/to/your/config/kaggle.json /.kaggle
         > mv /.kaggle /root/
