@@ -1,7 +1,7 @@
 {
   "id": "nikitamalcev99/kan_gpt2",
   "title": "KAN_GPT2",
-  "code_file": "./main.ipynb",
+  "code_file": "./kan.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": "true",
